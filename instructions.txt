@@ -1,0 +1,11 @@
+steps 
+ 1.installations
+
+  npm install :- to install react
+  npm install react react-dom:-to install react-dom
+  npm install @babel/core –save:- to install babel
+  npm install tsd -g:- to install jquery
+  npm install @fortawesome/fontawesome-free:-to install fontawesome
+
+2.start
+  npm start :- to start the app
